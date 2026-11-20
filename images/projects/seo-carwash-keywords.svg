@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" font-family="Segoe UI, Inter, Arial, sans-serif">
+  <rect width="1200" height="630" fill="#F7F7FB"/>
+  <circle cx="1120" cy="560" r="200" fill="#FFF3CF"/>
+  <text x="70" y="92" font-size="22" font-weight="700" fill="#D6167A" letter-spacing="3">SEO · KEYWORD RESEARCH</text>
+  <text x="70" y="150" font-size="44" font-weight="800" fill="#16131C">Self-service car wash, Germany</text>
+  <text x="70" y="192" font-size="22" fill="#4A4553">23 keywords mapped by volume, difficulty and local intent</text>
+  <g transform="translate(70,230)">
+    <rect width="1060" height="350" rx="22" fill="#fff" stroke="#E7E3EC"/>
+    <g font-size="15" font-weight="700" fill="#8A8391" letter-spacing="1">
+      <text x="30" y="44">KEYWORD (DE)</text><text x="430" y="44">MEANING</text><text x="760" y="44">VOLUME</text><text x="900" y="44">DIFFICULTY</text>
+    </g>
+    <line x1="30" y1="60" x2="1030" y2="60" stroke="#EEEAF1"/>
+    <g font-size="19" fill="#16131C">
+      <text x="30" y="98">sb waschanlage</text><text x="430" y="98" fill="#4A4553">self-service car wash</text><text x="760" y="98" font-weight="700">14.8K</text>
+      <text x="30" y="144">autowaschanlage in der nähe</text><text x="430" y="144" fill="#4A4553">car wash nearby</text><text x="760" y="144" font-weight="700">9.9K</text>
+      <text x="30" y="190">sb waschanlage in der nähe</text><text x="430" y="190" fill="#4A4553">self-service wash nearby</text><text x="760" y="190" font-weight="700">6.6K</text>
+      <text x="30" y="236">motorwäsche</text><text x="430" y="236" fill="#4A4553">engine wash</text><text x="760" y="236" font-weight="700">4.4K</text>
+      <text x="30" y="282">waschanlage pforzheim</text><text x="430" y="282" fill="#4A4553">car wash Pforzheim (local)</text><text x="760" y="282" font-weight="700">720</text>
+      <text x="30" y="328">sb sauger</text><text x="430" y="328" fill="#4A4553">self-service vacuum</text><text x="760" y="328" font-weight="700">210</text>
+    </g>
+    <g>
+      <rect x="900" y="84" width="100" height="16" rx="8" fill="#F1EEF4"/><rect x="900" y="84" width="16" height="16" rx="8" fill="#22A36B"/>
+      <rect x="900" y="130" width="100" height="16" rx="8" fill="#F1EEF4"/><rect x="900" y="130" width="27" height="16" rx="8" fill="#FFC21A"/>
+      <rect x="900" y="176" width="100" height="16" rx="8" fill="#F1EEF4"/><rect x="900" y="176" width="13" height="16" rx="8" fill="#22A36B"/>
+      <rect x="900" y="222" width="100" height="16" rx="8" fill="#F1EEF4"/><rect x="900" y="222" width="15" height="16" rx="8" fill="#22A36B"/>
+      <rect x="900" y="268" width="100" height="16" rx="8" fill="#F1EEF4"/><rect x="900" y="268" width="10" height="16" rx="8" fill="#22A36B"/>
+      <rect x="900" y="314" width="100" height="16" rx="8" fill="#F1EEF4"/><rect x="900" y="314" width="4" height="16" rx="8" fill="#22A36B"/>
+    </g>
+  </g>
+</svg>

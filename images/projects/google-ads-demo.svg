@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" font-family="Segoe UI, Inter, Arial, sans-serif">
+  <rect width="1200" height="630" fill="#F3F6FD"/>
+  <circle cx="90" cy="70" r="170" fill="#E4EBFB"/>
+  <rect x="860" y="34" width="300" height="44" rx="22" fill="#16131C"/>
+  <text x="1010" y="63" font-size="17" font-weight="700" fill="#FFC21A" text-anchor="middle" letter-spacing="2">STRATEGY BLUEPRINT</text>
+  <!-- browser -->
+  <g transform="translate(60,110)">
+    <rect width="640" height="460" rx="20" fill="#fff" stroke="#DCE3F2"/>
+    <rect width="640" height="48" rx="20" fill="#EEF2FA"/><rect y="28" width="640" height="20" fill="#EEF2FA"/>
+    <circle cx="28" cy="24" r="7" fill="#F28B82"/><circle cx="50" cy="24" r="7" fill="#FDD663"/><circle cx="72" cy="24" r="7" fill="#81C995"/>
+    <rect x="34" y="76" width="572" height="50" rx="25" fill="#fff" stroke="#DADCE0"/>
+    <circle cx="66" cy="101" r="9" fill="none" stroke="#9AA0A6" stroke-width="3"/><line x1="72" y1="107" x2="80" y2="115" stroke="#9AA0A6" stroke-width="3"/>
+    <text x="96" y="108" font-size="20" fill="#202124">dentist near me open saturday</text>
+    <text x="34" y="172" font-size="15" font-weight="700" fill="#202124">Sponsored</text>
+    <circle cx="48" cy="200" r="14" fill="#D6167A"/><text x="48" y="206" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">D</text>
+    <text x="72" y="196" font-size="16" fill="#202124">City Dental Clinic</text>
+    <text x="72" y="216" font-size="14" fill="#5F6368">www.yourclinic.com/saturday</text>
+    <text x="34" y="256" font-size="23" fill="#1A0DAB">Saturday Dental Appointments | Book Online</text>
+    <text x="34" y="290" font-size="17" fill="#4D5156">Checkups, cleaning and fillings. Open Saturdays 9–2.</text>
+    <text x="34" y="314" font-size="17" fill="#4D5156">Transparent prices before treatment. Book in 2 minutes.</text>
+    <g font-size="16" fill="#1A0DAB"><text x="34" y="352">Book a Checkup</text><text x="200" y="352">Prices</text><text x="290" y="352">Location &amp; Hours</text></g>
+    <rect x="34" y="384" width="572" height="14" rx="7" fill="#F1F3F4"/><rect x="34" y="410" width="420" height="14" rx="7" fill="#F1F3F4"/>
+  </g>
+  <!-- structure -->
+  <g transform="translate(740,110)">
+    <rect width="400" height="460" rx="20" fill="#fff" stroke="#DCE3F2"/>
+    <text x="28" y="48" font-size="15" font-weight="700" fill="#8A8391" letter-spacing="1.5">CAMPAIGN STRUCTURE</text>
+    <rect x="28" y="66" width="344" height="46" rx="12" fill="#16131C"/><text x="46" y="96" font-size="17" font-weight="700" fill="#fff">Search · Local Dental</text>
+    <line x1="52" y1="112" x2="52" y2="330" stroke="#DCE3F2" stroke-width="3"/>
+    <g font-size="16">
+      <line x1="52" y1="152" x2="76" y2="152" stroke="#DCE3F2" stroke-width="3"/><rect x="76" y="130" width="296" height="44" rx="11" fill="#FDEAF3"/><text x="94" y="158" fill="#16131C" font-weight="700">Checkups &amp; Cleaning</text>
+      <line x1="52" y1="214" x2="76" y2="214" stroke="#DCE3F2" stroke-width="3"/><rect x="76" y="192" width="296" height="44" rx="11" fill="#FDEAF3"/><text x="94" y="220" fill="#16131C" font-weight="700">Emergency Dentist</text>
+      <line x1="52" y1="276" x2="76" y2="276" stroke="#DCE3F2" stroke-width="3"/><rect x="76" y="254" width="296" height="44" rx="11" fill="#FDEAF3"/><text x="94" y="282" fill="#16131C" font-weight="700">Teeth Whitening</text>
+      <line x1="52" y1="330" x2="76" y2="330" stroke="#DCE3F2" stroke-width="3"/><rect x="76" y="308" width="296" height="44" rx="11" fill="#FFF3CF"/><text x="94" y="336" fill="#16131C" font-weight="700">Negative keyword list</text>
+    </g>
+    <text x="28" y="396" font-size="15" fill="#4A4553">−jobs  −course  −free  −salary  −diy</text>
+    <text x="28" y="430" font-size="14" fill="#8A8391">3 ad groups · phrase &amp; exact match</text>
+  </g>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" font-family="Segoe UI, Inter, Arial, sans-serif">
+  <rect width="1200" height="630" fill="#FDF2F7"/>
+  <circle cx="1080" cy="80" r="220" fill="#FBE0EC"/>
+  <circle cx="120" cy="600" r="160" fill="#FFF3CF"/>
+  <text x="70" y="98" font-size="22" font-weight="700" fill="#D6167A" letter-spacing="3">META ADS · CLIENT WORK</text>
+  <text x="70" y="160" font-size="46" font-weight="800" fill="#16131C">Footwear store, Pakistan</text>
+  <text x="70" y="204" font-size="24" fill="#4A4553">Click-to-WhatsApp campaigns · Aug–Sep 2026</text>
+  <g transform="translate(70,260)">
+    <rect width="300" height="160" rx="22" fill="#fff" stroke="#F1DCE6"/>
+    <text x="28" y="78" font-size="62" font-weight="800" fill="#16131C">367</text>
+    <text x="28" y="118" font-size="20" fill="#4A4553">WhatsApp conversations</text>
+    <text x="28" y="142" font-size="16" fill="#8A8391">started across 2 campaigns</text>
+  </g>
+  <g transform="translate(395,260)">
+    <rect width="260" height="160" rx="22" fill="#16131C"/>
+    <text x="28" y="78" font-size="56" font-weight="800" fill="#FFC21A">Rs 13.4</text>
+    <text x="28" y="118" font-size="20" fill="#fff">average cost per</text>
+    <text x="28" y="142" font-size="20" fill="#fff">conversation</text>
+  </g>
+  <g transform="translate(720,240)">
+    <rect width="410" height="300" rx="24" fill="#fff" stroke="#F1DCE6"/>
+    <text x="30" y="50" font-size="19" font-weight="700" fill="#16131C">Cost per conversation (Rs)</text>
+    <text x="30" y="104" font-size="17" fill="#4A4553">Kids School Shoes</text>
+    <rect x="30" y="116" width="350" height="26" rx="13" fill="#F6EEF2"/>
+    <rect x="30" y="116" width="137" height="26" rx="13" fill="#D6167A"/>
+    <text x="180" y="136" font-size="17" font-weight="700" fill="#16131C">6.47 · 113 chats</text>
+    <text x="30" y="194" font-size="17" fill="#4A4553">Unisex Lace-up Sneakers</text>
+    <rect x="30" y="206" width="350" height="26" rx="13" fill="#F6EEF2"/>
+    <rect x="30" y="206" width="350" height="26" rx="13" fill="#FFC21A"/>
+    <text x="46" y="225" font-size="17" font-weight="700" fill="#16131C">16.52 · 254 chats</text>
+    <text x="30" y="272" font-size="14" fill="#8A8391">Source: Meta Ads Manager export</text>
+  </g>
+  <text x="70" y="500" font-size="18" fill="#4A4553">Spend: Rs 4,925.70 · Reach: 30,998 · Impressions: 40,810</text>
+  <text x="70" y="560" font-size="15" fill="#8A8391">Results are conversations started, not purchases.</text>
+</svg>

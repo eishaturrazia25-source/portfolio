@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" font-family="Segoe UI, Inter, Arial, sans-serif">
+  <rect width="1200" height="630" fill="#FFF9EC"/>
+  <circle cx="1130" cy="600" r="200" fill="#FDEAF3"/>
+  <rect x="860" y="34" width="300" height="44" rx="22" fill="#16131C"/>
+  <text x="1010" y="63" font-size="17" font-weight="700" fill="#FFC21A" text-anchor="middle" letter-spacing="2">STRATEGY BLUEPRINT</text>
+  <text x="60" y="66" font-size="22" font-weight="700" fill="#D6167A" letter-spacing="3">EMAIL AUTOMATION</text>
+  <text x="60" y="118" font-size="40" font-weight="800" fill="#16131C">Skincare e-commerce store</text>
+  <g font-size="16">
+    <!-- card 1 -->
+    <g transform="translate(60,170)">
+      <rect width="330" height="390" rx="22" fill="#fff" stroke="#F0E3C8"/>
+      <rect x="22" y="22" width="110" height="30" rx="15" fill="#FDEAF3"/><text x="77" y="43" text-anchor="middle" font-weight="700" fill="#D6167A">WELCOME</text>
+      <text x="22" y="86" font-size="20" font-weight="800" fill="#16131C">3 emails · Day 0–5</text>
+      <rect x="22" y="108" width="286" height="96" rx="14" fill="#FBF7F9"/>
+      <text x="40" y="140" fill="#16131C" font-weight="700">Welcome to the family</text>
+      <rect x="40" y="156" width="230" height="10" rx="5" fill="#ECE4E9"/><rect x="40" y="176" width="170" height="10" rx="5" fill="#ECE4E9"/>
+      <text x="22" y="240" fill="#4A4553">1 · Brand story + first-order offer</text>
+      <text x="22" y="270" fill="#4A4553">2 · Find your skin routine</text>
+      <text x="22" y="300" fill="#4A4553">3 · Best-sellers + reviews</text>
+      <text x="22" y="356" font-size="14" fill="#8A8391">Trigger: newsletter sign-up</text>
+    </g>
+    <path d="M400 365 h30" stroke="#D6167A" stroke-width="3" marker-end="url(#a)"/>
+    <g transform="translate(445,170)">
+      <rect width="330" height="390" rx="22" fill="#fff" stroke="#F0E3C8"/>
+      <rect x="22" y="22" width="170" height="30" rx="15" fill="#FFF3CF"/><text x="107" y="43" text-anchor="middle" font-weight="700" fill="#8A6400">ABANDONED CART</text>
+      <text x="22" y="86" font-size="20" font-weight="800" fill="#16131C">2 emails · 1h &amp; 24h</text>
+      <rect x="22" y="108" width="286" height="96" rx="14" fill="#FBF7F9"/>
+      <text x="40" y="140" fill="#16131C" font-weight="700">You left something behind</text>
+      <rect x="40" y="156" width="60" height="34" rx="8" fill="#F3D6E3"/><rect x="112" y="160" width="150" height="10" rx="5" fill="#ECE4E9"/><rect x="112" y="178" width="100" height="10" rx="5" fill="#ECE4E9"/>
+      <text x="22" y="240" fill="#4A4553">1 · Cart reminder with product</text>
+      <text x="22" y="270" fill="#4A4553">2 · Answer common questions</text>
+      <text x="22" y="300" fill="#4A4553">Exit: purchase completed</text>
+      <text x="22" y="356" font-size="14" fill="#8A8391">Trigger: checkout started</text>
+    </g>
+    <path d="M785 365 h30" stroke="#D6167A" stroke-width="3" marker-end="url(#a)"/>
+    <g transform="translate(830,170)">
+      <rect width="310" height="390" rx="22" fill="#fff" stroke="#F0E3C8"/>
+      <rect x="22" y="22" width="160" height="30" rx="15" fill="#E7F6EE"/><text x="102" y="43" text-anchor="middle" font-weight="700" fill="#1D7A52">POST-PURCHASE</text>
+      <text x="22" y="86" font-size="20" font-weight="800" fill="#16131C">3 emails · Day 1–30</text>
+      <rect x="22" y="108" width="266" height="96" rx="14" fill="#FBF7F9"/>
+      <text x="40" y="140" fill="#16131C" font-weight="700">How to use your serum</text>
+      <rect x="40" y="156" width="210" height="10" rx="5" fill="#ECE4E9"/><rect x="40" y="176" width="150" height="10" rx="5" fill="#ECE4E9"/>
+      <text x="22" y="240" fill="#4A4553">1 · Thank you + usage tips</text>
+      <text x="22" y="270" fill="#4A4553">2 · Review request</text>
+      <text x="22" y="300" fill="#4A4553">3 · Refill reminder</text>
+      <text x="22" y="356" font-size="14" fill="#8A8391">Trigger: order placed</text>
+    </g>
+  </g>
+  <defs><marker id="a" markerWidth="10" markerHeight="10" refX="6" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10z" fill="#D6167A"/></marker></defs>
+</svg>
